@@ -60,12 +60,6 @@ Para contribuir:
 7.  **Envie (Push)** suas alterações para o seu fork no GitHub.
 8.  **Abra um Pull Request (PR)** para este repositório, descrevendo sua contribuição.
 
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir o código, respeitando os termos da licença.
-
-
 ## Contato e Suporte
 
 Se tiver dúvidas, sugestões ou precisar de suporte, por favor, abra uma [Issue neste repositório](https://github.com/lucasfernandopinto/qa-hub/issues) (substitua `seu-usuario` pelo seu nome de usuário do GitHub).

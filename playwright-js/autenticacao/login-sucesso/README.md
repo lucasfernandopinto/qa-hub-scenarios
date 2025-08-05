@@ -26,9 +26,9 @@ Ao executar este cenário, espera-se que:
 
 4. O sistema autentique o usuário com sucesso.
 
-5. O usuário seja redirecionado para a página do dashboard.
+5. O usuário seja redirecionado para a página principal do sistema.
 
-6. Um elemento de confirmação (ex: mensagem de boas-vindas, nome do usuário logado) seja visível na página do dashboard.
+6. Um elemento de confirmação (ex: mensagem de boas-vindas, nome do usuário logado) seja visível na página.
 
 ## Como Executar
 
@@ -38,7 +38,7 @@ Este cenário pode ser executado utilizando os frameworks de automação corresp
 
 1. Certifique-se de ter o `chromedriver` (ou outro driver de navegador) instalado e configurado em seu PATH.
 
-2. Navegue até a pasta `qahub/selenium-js/autenticacao/login-sucesso/`.
+2. Navegue até a pasta `qahub-scenarios/selenium-js/autenticacao/login-sucesso/`.
 
 3. Execute o teste via Node.js: `node login_sucesso_test.js`
 
@@ -58,7 +58,7 @@ Este cenário pode ser executado utilizando os frameworks de automação corresp
 
 ## Observações
 
-* Os seletores (`#email`, `#senha`, `#botaoLogin`, `.boas-vindas`) são exemplos e devem ser substituídos pelos seletores reais da sua aplicação.
+* Os seletores e URLs são exemplos e devem ser substituídos pelos reais da sua aplicação.
 
 * A URL (`https://www.exemplo.com.br/login`) deve ser alterada para a URL de login do ambiente de teste.
 
