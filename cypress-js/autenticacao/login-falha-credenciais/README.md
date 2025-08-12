@@ -29,15 +29,7 @@ Ao executar este cenário, espera-se que:
 
 ## Como Executar
 
-Este cenário pode ser executado utilizando os frameworks de automação correspondentes (Selenium JS, Cypress JS, Playwright JS).
-
-### Para Selenium JS:
-
-1. Certifique-se de ter o `chromedriver` (ou outro driver de navegador) instalado e configurado em seu PATH.
-
-2. Navegue até a pasta `qahub-scenarios/selenium-js/autenticacao/login-falha-credenciais-invalidas/`.
-
-3. Execute o teste via Node.js: `node login-falha-credenciais-invalidas_test.js`
+Este cenário pode ser executado utilizando os frameworks de automação correspondentes (Cypress JS, Playwright JS).
 
 ### Para Cypress JS:
 

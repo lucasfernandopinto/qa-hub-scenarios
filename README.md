@@ -1,6 +1,6 @@
 # QAHUB - Cenários de Teste Genéricos
 
-Este repositório é parte integrante do projeto **QAHUB**, uma plataforma web desenvolvida para simplificar e organizar a automação de testes de software. Nosso objetivo é centralizar, validar e promover a colaboração em cenários de testes automatizados genéricos, utilizando frameworks populares como Selenium, Cypress e Playwright, todos implementados em JavaScript.
+Este repositório é parte integrante do projeto **QAHUB**, uma plataforma web desenvolvida para simplificar e organizar a automação de testes de software. Nosso objetivo é centralizar, validar e promover a colaboração em cenários de testes automatizados genéricos, utilizando frameworks populares como Cypress e Playwright, todos implementados em JavaScript.
 
 Aqui você encontrará uma coleção de exemplos de testes que podem servir como ponto de partida ou referência para suas próprias automações, seguindo boas práticas e padrões de qualidade.
 
@@ -21,12 +21,6 @@ A organização dos cenários segue uma hierarquia lógica para facilitar a nave
 
 ```
 qahub-scenarios/
-├── selenium-js/
-│   └── autenticacao/
-│       └── login-sucesso/
-│           ├── login_sucesso_test.js
-│           ├── login_sucesso.feature
-│           └── README.md
 ├── cypress-js/
 │   └── autenticacao/
 │       └── login-sucesso/

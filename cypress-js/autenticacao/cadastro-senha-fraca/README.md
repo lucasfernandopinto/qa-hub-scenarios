@@ -27,13 +27,7 @@ Ao executar este cenário, espera-se que:
 
 ## Como Executar
 
-Este cenário pode ser executado utilizando os frameworks de automação correspondentes (Selenium JS, Cypress JS, Playwright JS).
-
-### Para Selenium JS:
-
-1. Navegue até a pasta `qahub-scenarios/selenium-js/autenticacao/cadastro-senha-fraca/`.
-
-2. Execute o teste via Node.js: `node cadastro_senha_fraca_test.js`
+Este cenário pode ser executado utilizando os frameworks de automação correspondentes (Cypress JS, Playwright JS).
 
 ### Para Cypress JS:
 
